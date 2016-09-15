@@ -5,24 +5,23 @@ body {
   margin: 75px auto;
    width: 60%;
   /* #ccc is shorthand HEX for a light grey */
-  background: #FFFFFF;
+  background: #808080;
 
 }
 
-
 h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #808080;
+    color: ##ffffff;
 }
 
 
 p{
-    color: #808080;
+    color: ##ffffff;
 
 }
 
 img {
-   padding:2px;
-   border:2px solid #000000;
-   background-color:#808080;
+   padding:1px;
+   border:1px solid #000000;
+   background-color:##ffffff;
 }
