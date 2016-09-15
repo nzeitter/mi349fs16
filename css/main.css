@@ -2,6 +2,8 @@
 
 /* Example: adding a background color to the HTML body */
 body {
+  margin: 60px auto;
+   width: 70%;
   /* #ccc is shorthand HEX for a light grey */
   background: #ccc;
 }
