@@ -24,4 +24,7 @@ img {
    padding:1px;
    border:1px solid #000000;
    background-color:#ffffff;
+   display: block;
+   margin: auto;
+   width: 40%;
 }
