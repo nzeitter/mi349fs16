@@ -2,8 +2,21 @@
 
 /* Example: adding a background color to the HTML body */
 body {
-  margin: 60px auto;
-   width: 70%;
+  margin: 75px auto;
+   width: 60%;
   /* #ccc is shorthand HEX for a light grey */
-  background: #ccc;
+  background: #FFFFFF;
+
+}
+
+
+h1 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #ccc;
+}
+
+
+p{
+    color: #ccc;
+
 }
