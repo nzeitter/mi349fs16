@@ -11,17 +11,14 @@ h1, p {
    margin: 0;
 }
 
-
 .container {
    width: 900px;
    margin: 0 auto;
 }
 
-
 header, footer {
    background: #3498db;
 }
-
 
 .content {
    display: flex;
@@ -29,6 +26,10 @@ header, footer {
 
 .content section {
    padding: 1em;
+   flex: 1 1 0;
+}
+
+.content section:first-of-type {
    flex: 3 3 0;
 }
 
