@@ -30,9 +30,9 @@ header, footer {
 }
 
 .content section:first-of-type {
-   flex: 3 3 0;
+   flex: 1 1 0;
 }
 
 .content section:nth-of-type(3) {
-   flex: 1 1 0;
+   flex: 3 3 0;
 }
