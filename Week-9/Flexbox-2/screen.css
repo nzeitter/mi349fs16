@@ -11,17 +11,14 @@ h1, p {
     margin: 0;
 }
 
-
 .container {
     width: 900px;
     margin: 0 auto;
 }
 
-
 header, footer {
     background: #3498db;
 }
-
 
 .content {
     display: flex;
