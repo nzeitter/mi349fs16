@@ -26,9 +26,9 @@ header, footer {
 
 .content section {
    padding: 1em;
-   flex: 1 1 0;
+   flex: 3 3 0;
 }
 
 .content section:first-of-type {
-   flex: 3 3 0;
+   flex: 1 1 0;
 }
