@@ -1,1 +1,2 @@
-https://nzeitter.github.io/index.html
+https://nzeitter.github.io
+https://github.com/nzeitter/nzeitter.github.io
